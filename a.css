@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(127, 194, 145);
+    text-align: center;
+}
+
+.one{
+    background-color: rgb(127, 194, 145);
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.first{
+    background-color:rgb(127,194,145);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 6%;
+}
+
+.two{
+    margin-left: 25%;
+    
+}
+.headd{
+    background-color: white;
+    width: 100%;
+
+}
+img {
+   width: 70px;
+   height: 70px;
+
+  }
+
+  .headd h1, .headd img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+.out{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
